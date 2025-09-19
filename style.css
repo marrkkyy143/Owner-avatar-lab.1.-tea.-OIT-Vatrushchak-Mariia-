@@ -1,0 +1,41 @@
+h2 {
+color: #d600ac;
+font-size: 80px;
+}
+.firstpar {
+  font-size: 30px;
+  color: rgb(20, 220, 27);
+}
+img {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    max-width: 200px;
+}
+body {
+  background-image: url(https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3NodXR0ZXJzdG9jay0yMjc4Nzc2MTg3LWhlcm8uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo4Mjh9fX0=);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center; 
+  
+}
+.meow {
+    font-size: 25px;
+    color: rgb(207, 29, 213);
+}
+ select {
+    display: block;
+    background-color: #7005e9;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+.nav {
+  display: grid;
+	height: 100vh;
+	width: 1200px;
+}
+.box-content {
+  display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	width: 1200px;
+}
